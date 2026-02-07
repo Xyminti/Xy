@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xyminti, You can call me Xy.
 - 👀 I’m interested in music, art, games, streaming, coding/programming.
-- 🌱 I’m currently learning Python & Rust.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
